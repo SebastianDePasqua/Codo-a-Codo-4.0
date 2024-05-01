@@ -1,3 +1,13 @@
 img{
-    height: 50vh;
+    height: 500px;
+}
+.row{
+    
+    padding-bottom: 1rem;
+}
+p{
+    padding: 0.5rem;
+}
+.container-central{
+    height: 80vh;
 }
