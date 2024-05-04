@@ -1,11 +1,8 @@
 img {
-  height: 500px;
+  height: 600px;
 }
 p {
   padding: 0.5rem;
-}
-.container-central {
-  height: 70vh;
 }
 footer {
   height: 8vh;
@@ -14,4 +11,6 @@ footer {
   #derechos {
     font-size: 12px;
   }
+}
+@media (max-width: 1200px){
 }
