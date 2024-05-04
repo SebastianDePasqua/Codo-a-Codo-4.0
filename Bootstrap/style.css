@@ -1,3 +1,16 @@
-img{
-    height: 40vh;
+p {
+  padding: 0.5rem;
+}
+footer {
+  height: 8vh;
+}
+@media (max-width: 576px) {
+  #derechos {
+    font-size: 12px;
+  }
+}
+@media (min-width: 1600px){
+  #aside{
+    font-size: x-large;
+  }
 }
